@@ -68,7 +68,7 @@ The gain can be selected using different resistor configurations and switching e
 The final stage is a **precision rectifier**, designed to rectify the signal without the voltage drop associated with standard diode rectifiers.
 
 Main features:
-- Accurate rectification of low amplitude signals
+- Accurate rectification of signals
 - No significant diode threshold voltage error
 - Improved signal accuracy before ADC conversion
 
