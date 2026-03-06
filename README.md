@@ -129,4 +129,4 @@ This project helps develop practical and theoretical knowledge in:
 ---
 
 ## Author
-University project developed as part of coursework related to **analog electronics and signal conditioning systems**.
+University project developed as part of coursework related to **Systems with Analog Integrated Circuits**.
