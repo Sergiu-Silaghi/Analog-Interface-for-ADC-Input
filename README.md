@@ -60,7 +60,7 @@ Advantages:
 - Improved ADC resolution
 - Flexible signal conditioning
 
-The gain can be selected using different resistor configurations or switching elements.
+The gain can be selected using different resistor configurations and switching elements.
 
 ---
 
