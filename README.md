@@ -114,7 +114,7 @@ Tools and components used in the project:
 - Oscilloscope
 - Signal generator
 - Breadboard
-- Scopy software designed by Analog Devices
+- Scopy software
 - LTSpice simulation software
 
 ---
