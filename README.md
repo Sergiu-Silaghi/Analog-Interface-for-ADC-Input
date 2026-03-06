@@ -82,7 +82,7 @@ In addition to the theoretical design, the project includes a **practical hardwa
 The implementation involves:
 - Circuit schematic design
 - Component selection
-- Breadboard or PCB assembly
+- Breadboard assembly
 - Experimental testing and signal measurements
 
 Measurements were performed to verify:
@@ -105,14 +105,15 @@ Such an analog interface can be used in various applications, including:
 ---
 
 ## Tools and Components
-Possible tools and components used in the project include:
+Tools and components used in the project:
 
 - Operational amplifiers
 - Resistors and capacitors
-- Analog switches or gain control circuits
+- Analog switches and gain control circuits
 - Oscilloscope
 - Signal generator
-- Breadboard or PCB
+- Breadboard
+- Scopy software
 
 ---
 
